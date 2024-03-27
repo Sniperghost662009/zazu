@@ -863,7 +863,7 @@ if (media === 'texto')
 await conn.sendMessage(m.chat, {text: `${pickRandom(['*QUE YO QUE?*', 'Que?'])}`}, {quoted: m, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})}
 if (budy.includes(`Yaoi`)) {
 m.react(`${pickRandom(['😐', '👀', '😹'])}`)
-m.reply(`${pickRandom(['Que mamada? vete a estudiar mejor', 'Soy un bot, no pida mamada (︶｡︶)zzZ '])}`)}
+m.reply(`${pickRandom(['Que cosa? vete a estudiar mejor', 'Soy un bot, no pidas babosada (︶｡︶)zzZ '])}`)}
 if (budy.startsWith(`a`)) {
 if (!global.db.data.chats[m.chat].audios) return
 let vn = './media/a.mp3'
