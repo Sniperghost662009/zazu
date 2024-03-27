@@ -19,7 +19,7 @@ global.botNumberCode = "" //Ejemplo: +52033032
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
-global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
+global.place = 'America/El_Salvador' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
 global.lenguaje = es //Predeterminado en idioma Español 
 global.prefix = [`/`]
 
@@ -71,7 +71,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝙲𝙾𝚁𝚃𝙰𝙽𝙰𝙱𝙾𝚃-𝟸.𝟶"
+global.packname = "ShimbaBot"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -90,15 +90,15 @@ global.fb = 'https://www.facebook.com/iwakingXD'
 global.faceb = 'https://www.facebook.com/groups/172099662851887'
 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nn = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //test
-global.nn7 = 'https://chat.whatsapp.com/FDRfhecUGrCEQswkg8FUYz' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo COL 4
+global.nn = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //LoliBot
+global.nn2 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Loli & Nova
+global.nn3 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo de Colaboracion
+global.nn4 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' // Grupo SV 2
+global.nn5 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo SV 3
+global.nn6 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //test
+global.nn7 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo ayuda sobre el bot
+global.nn8 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //enlace lolibot
+global.multi = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo SV 4
 global.nna2 = 'KIF6hzJrkTL4toi20r6RQx'
 
 //---------[ INFO ]--------- 
