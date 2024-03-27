@@ -10,9 +10,9 @@ global.premium = []
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "shimba"
-global.wm = 'shimba'
-global.vs = '(Premium)'
+global.botname = "ShimbaBot"
+global.wm = 'ShimbaBot'
+global.vs = '(Personalizado)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
 global.botNumberCode = "" //Ejemplo: +52033032
