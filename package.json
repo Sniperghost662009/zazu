@@ -1,6 +1,6 @@
 {
-  "name": "SHIMBA BOT",
-  "version": "2.0.0 (Premium)",
+  "name": "ShimbaBot",
+  "version": "1.0.0 (Personalizado)",
   "description": "Bot de whatsapp",
   "main": "index.js",
   "type": "commonjs",
