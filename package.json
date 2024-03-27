@@ -9,7 +9,7 @@
   "qr": "node index.js qr",
   "code": "node index.js code",
   "vortexus": "bash vortexus.sh" },
-  "author": "super",
+  "author": "shimba",
   "license": "ISC",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.6.0",
