@@ -1,4 +1,4 @@
-# Código creado     
+# Código      
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución      
