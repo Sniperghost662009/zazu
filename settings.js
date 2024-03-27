@@ -85,7 +85,7 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 //---------[ ENLACES ]---------
 global.md = 'https://github.com/iwaking2024/ShimbaBot.git'
 global.yt = 'https://www.youtube.com/@iwakingXD'
-global.tiktok = 'https://www.tiktok.com/@iwakingxd?_t=8kkT6zjzePf&_r=1'
+global.tiktok = 'https://www.tiktok.com/@iwakingxd'
 global.fb = 'https://www.facebook.com/iwakingXD'
 global.faceb = 'https://www.facebook.com/groups/172099662851887'
 
