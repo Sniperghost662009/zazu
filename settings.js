@@ -85,7 +85,7 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 //---------[ ENLACES ]---------
 global.md = 'https://github.com/russellxz/CORTANABOT2.0.git'
 global.yt = 'https://www.youtube.com/@RussellxzZing507andCrownsavage'
-global.tiktok = 'https://www.tiktok.com/@russellpaypal?_t=8kkT6zjzePf&_r=1'
+global.tiktok = 'https://www.tiktok.com/@iwakingxd?_t=8kkT6zjzePf&_r=1'
 global.fb = 'https://www.facebook.com/elrebelde21'
 global.faceb = 'https://facebook.com/groups/872989990425789/'
 
