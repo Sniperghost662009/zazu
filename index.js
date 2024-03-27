@@ -209,7 +209,7 @@ printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 logger: pino({ level: 'silent' }),
 auth: { creds: state.creds, keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})) },
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['CortanaBot-𝟸.𝟶', 'Safari', '1.0.0'] : methodCodeQR ? ['CortanaBot-𝟸.𝟶', 'Safari', '1.0.0'] : ['Ubuntu', 'Chrome', '2.0.0'],
+browser: opcion == '1' ? ['ShimbaBot', 'Safari', '1.0.0'] : methodCodeQR ? ['ShimbaBot', 'Safari', '1.0.0'] : ['Ubuntu', 'Chrome', '2.0.0'],
 msgRetry,
 msgRetryCache,
 version,
@@ -309,7 +309,7 @@ if (fucker.isGroup == false) {
 if (fucker.status == "offer") {
 let call = await sock.sendTextWithMentions(fucker.from, `*[ ! ] @${fucker.from.split('@')[0]} ${lenguaje['smscall']()} ${fucker.isVideo ? `videollamadas` : `llamadas` }_\n\n${lenguaje['smscall2']()}\n\n• ${fb}`)
 let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Propietario 👑;;;\nFN:Propietario\nORG:Propietario 👑\nTITLE:\nShimba\nitem1.X-ABLabel:Propietario 👑\nShimba\nX-WA-BIZ-NAME:Dueño 👑\nShimba`
-sock.sendMessage(fucker.from, { contacts: { displayName: 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ 👑', contacts: [{ vcard }] }}, {quoted: call, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
+sock.sendMessage(fucker.from, { contacts: { displayName: 'Shimba 👑', contacts: [{ vcard }] }}, {quoted: call, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
 await sleep(8000)
 await sock.updateBlockStatus(fucker.from, "block")
 }}}})
