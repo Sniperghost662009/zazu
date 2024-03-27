@@ -1,4 +1,4 @@
-> <b>  🚀 Cortana Bot (Personalizado) </b>
+> <b>  🚀 Shimba Bot (Personalizado) </b>
 
 ------------------ 
 
@@ -7,7 +7,7 @@
 [![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
 
-[![Run on Repl.it](https://repl.it/badge/github/russellxz/Cortana3)](https://repl.it/github/russellxz/Cortana3)  
+[![Run on Repl.it](https://repl.it/badge/github/russellxz/Cortana3)](https://repl.it/github/iwaking2024/ShimbaBot)  
 
 ------------------ 
 
