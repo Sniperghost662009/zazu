@@ -15,7 +15,7 @@ global.wm = 'shimba'
 global.vs = '(Premium)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +520330000
+global.botNumberCode = "" //Ejemplo: +52033032
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
