@@ -83,11 +83,11 @@ global.imagen5 = fs.readFileSync('./media/menu5.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/russellxz/CORTANABOT2.0.git'
-global.yt = 'https://www.youtube.com/@RussellxzZing507andCrownsavage'
+global.md = 'https://github.com/iwaking2024/ShimbaBot.git'
+global.yt = 'https://www.youtube.com/@iwakingXD'
 global.tiktok = 'https://www.tiktok.com/@iwakingxd?_t=8kkT6zjzePf&_r=1'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.faceb = 'https://facebook.com/groups/872989990425789/'
+global.fb = 'https://www.facebook.com/iwakingXD'
+global.faceb = 'https://www.facebook.com/groups/172099662851887'
 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
 global.nn = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //LoliBot
