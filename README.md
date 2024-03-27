@@ -7,7 +7,7 @@
 [![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
 
-[![Run on Repl.it](https://repl.it/badge/github.com/iwaking2024/ShimbaBot3)](https://repl.it/github.com/iwaking2024/ShimbaBot3) 
+[![Run on Repl.it]([https://repl.it/badge/github.com/iwaking2024/ShimbaBot3](https://replit.com/@iwakingxd/ShimbaBot?v=1))]([https://repl.it/github.com/iwaking2024/ShimbaBot3](https://replit.com/@iwakingxd/ShimbaBot?v=1)) 
 
 ------------------ 
 
