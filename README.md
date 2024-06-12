@@ -1,4 +1,4 @@
-> <b>  🚀 Shimba Bot (Personalizado) </b>
+> <b>   ZazuBot  </b>
 
 ------------------ 
 
@@ -26,10 +26,10 @@ termux-setup-storage
 apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-git clone https://github.com/iwaking2024/ShimbaBot.git
+git clone https://github.com/Sniperghost662009/zazu
 ```
 ```bash
-cd ShimbaBot
+cd zazu
 ```
 ```bash
 yarn install && npm install && npm update
@@ -41,14 +41,14 @@ npm start
 ### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝙲𝙰𝚂𝙾 𝙳𝙴 𝙳𝙴𝚃𝙴𝙽𝙴𝚁𝚂𝙴 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
 Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos
 ```bash
-> cd ShimbaBot
+> cd zazu
 > npm start
 ```
 ### `🟢 𝙾𝙱𝚃𝙴𝙽𝙴𝚁 𝙾𝚃𝚁𝙾 𝙲𝙾𝙳𝙸𝙶𝙾 𝚀𝚁 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
 Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 ```bash
 > cd 
-> cd ShimbaBot
+> cd zazu
 > rm -rf sessions
 > npm start
 ```
