@@ -1,7 +1,7 @@
 {
-  "name": "ShimbaBot",
-  "description": "Bot de whatsapp complicado",
-  "repository": "https://github.com/iwaking2024/ShimbaBot",
+  "name": "ZazuBot",
+  "description": "Whastapp Bot",
+  "repository": "https://github.com/Sniperghost662009/zazu",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
