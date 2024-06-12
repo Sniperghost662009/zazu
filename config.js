@@ -4,14 +4,14 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["71592727", "Owner", true], ["593968585383"], ["5492266466080"], ["595986172767"], ["5492266613038"], ["584123552078"], ["573242402359"], ["5217294888993"],["5214437863111"], ["51906662557"], ["595992302861"], ["5217441298510"], ["5491155983299"], ["5493795319022"], ["5217821153974"], ["584163393168"], ["5216865268215"], ["573012482694"]]
+global.owner = [["524922108173", "Owner", true], ["524922108173"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "ShimbaBot"
-global.wm = 'ShimbaBot'
+global.botname = "ZazuBot"
+global.wm = 'ZazuBot'
 global.vs = '(Personalizado)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
@@ -19,9 +19,9 @@ global.botNumberCode = "" //Ejemplo: +52033032
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
-global.place = 'America/El_Salvador' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
+global.place = 'America/Mexico_City' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
 global.lenguaje = es //Predeterminado en idioma Español 
-global.prefix = [`/`]
+global.prefix = [`.`]
 
 //---------[ APIS GLOBAL ]---------
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']; 
@@ -71,7 +71,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "ShimbaBot"
+global.packname = "ZazuBot"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -83,23 +83,23 @@ global.imagen5 = fs.readFileSync('./media/menu5.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/iwaking2024/ShimbaBot.git'
-global.yt = 'https://www.youtube.com/@iwakingXD'
-global.tiktok = 'https://www.tiktok.com/@iwakingxd'
-global.fb = 'https://www.facebook.com/iwakingXD'
-global.faceb = 'https://www.facebook.com/groups/172099662851887'
+global.md = 'https://github.com/Sniperghost662009/zazu.git'
+global.yt = 'https://www.youtube.com'
+global.tiktok = 'https://www.tiktok.com'
+global.fb = 'https://www.facebook.com'
+global.faceb = 'https://www.facebook.com/'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nn = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' // Grupo SV 2
-global.nn5 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo SV 3
-global.nn6 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //test
-global.nn7 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/EM9kgagbJ7eB9WLo9IRyCr' //Grupo SV 4
-global.nna2 = 'KIF6hzJrkTL4toi20r6RQx'
+global.nna = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //Update 
+global.nn = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.nn2 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.nn3 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //Grupo de Colaboracion
+global.nn4 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' // Grupo 
+global.nn5 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.nn6 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //test
+global.nn7 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.nn8 = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.multi = 'https://chat.whatsapp.com/DLApok64hLSJrugsTBddoH' //
+global.nna2 = 'DLApok64hLSJrugsTBddoH'
 
 //---------[ INFO ]--------- 
 global.info = { wait: '*_▬▭▭▭▭▭▭_*', 
@@ -128,7 +128,7 @@ global.xmoji = '👿'
 
 //---------------[ NIVELES, ADVERTENCIA ]----------------
 global.multiplier = 35 // Cuanto más alto, más difícil subir de nivel 
-global.maxwarn = '6' // máxima advertencias 
+global.maxwarn = '3' // máxima advertencias 
 
 //----------------------------------------------------
 
