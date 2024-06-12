@@ -52,9 +52,9 @@ conn.sendMessage(m.chat, {image: imagen1, caption: stateRun, contextInfo:{ menti
 }
 
 if (command == 'owner' || command == 'creador' || command == 'contacto') {
-let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;OWNER 👑;;;\nFN:OWNER\nORG:OWNER 👑\nTITLE:\nitem1.TEL;waid=19293719827:+1 (929) 371-9827\nitem1.X-ABLabel:OWNER👑\nX-WA-BIZ-DESCRIPTION:Russell\nX-WA-BIZ-NAME:OWNER 👑\nEND:VCARD`
+let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;OWNER 👑;;;\nFN:OWNER\nORG:OWNER 👑\nTITLE:\nitem1.TEL;waid=524922108173:+52 492 210-8173\nitem1.X-ABLabel:OWNER👑\nX-WA-BIZ-DESCRIPTION:Tryzer\nX-WA-BIZ-NAME:OWNER 👑\nEND:VCARD`
 let a = await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, {quoted: m})
-await conn.sendTextWithMentions(m.chat, `${lenguaje['smsWel']()} @${sender.split("@")[0]}, este Bot Fue Modificado por russell. Aqui tienes el numero solo por la dudas y problema del bot.\n\n‼️ 𝙽𝚘 𝚑𝚊𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚊 𝚖𝚒 𝚌𝚛𝚎𝚊𝚍𝚘𝚛 𝚘 𝚚𝚞𝚎𝚍𝚊 𝚋𝚕𝚘𝚚𝚞𝚎𝚊𝚍𝚘\n\n${yt}`, a)
+await conn.sendTextWithMentions(m.chat, `${lenguaje['smsWel']()} @${sender.split("@")[0]}, Aqui tienes el numero solo por la dudas y problema del bot.\n\n‼️ 𝙽𝚘 𝚑𝚊𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚊 𝚖𝚒 𝚌𝚛𝚎𝚊𝚍𝚘𝚛 𝚘 𝚚𝚞𝚎𝚍𝚊 𝚋𝚕𝚘𝚚𝚞𝚎𝚊𝚍𝚘\n\n${yt}`, a)
 //conn.sendMessage(m.chat, { text : `${lenguaje['smsWel']()} @${sender.split("@")[0]}, este Bot Fue Modificado por russell. Aqui tienes el numero solo por la dudas y problema del bot.\n\n‼️ 𝙽𝚘 𝚑𝚊𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚊 𝚖𝚒 𝚌𝚛𝚎𝚊𝚍𝚘𝚛 𝚘 𝚚𝚞𝚎𝚍𝚊 𝚋𝚕𝚘𝚚𝚞𝚎𝚊𝚍𝚘\n\n${yt}`, mentions: [sender]}, { quoted: a, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
 }
 
