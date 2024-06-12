@@ -1,5 +1,5 @@
 {
-  "name": "ShimbaBot",
+  "name": "ZazuBot",
   "version": "1.0.0 (Personalizado)",
   "description": "Bot de whatsapp",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "qr": "node index.js qr",
   "code": "node index.js code",
   "vortexus": "bash vortexus.sh" },
-  "author": "shimba",
+  "author": "Tryzer",
   "license": "ISC",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.6.0",
